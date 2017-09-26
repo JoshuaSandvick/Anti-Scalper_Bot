@@ -1,0 +1,10 @@
+{
+	"username":<PurchasingSiteUsername>,
+	"password":<PurchasingSitePassword>,
+	"proxyInfo": {
+		"proxyUsername":<Proxy2Username>,
+		"proxyPassword":<Proxy2Password>,
+		"proxyAddress":"proxy-us3.vpnsecure.me:8080" // Example using a private proxy from the service VPNSecure
+	},
+	"userAgent":<YourUserAgent>
+}
